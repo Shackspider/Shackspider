@@ -16,7 +16,7 @@ Local SEO · Citation building · WordPress · HTML/CSS · Financial statement a
 
 - Portfolio: https://Shackspider.github.io
 - Gumroad: https://zachschexneider.gumroad.com
-- Email: your-email@example.com *(swap in your real email)*
+- Email: zachschex@gmail.com
 
 ---
 
